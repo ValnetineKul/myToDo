@@ -1,0 +1,20 @@
+.priority {
+    width: 15%;
+    float: left;
+}
+.input {
+    padding-left: 5px;
+    float: left;
+    width: 700px;
+    height: 40px;
+}
+.addButton {
+    float: right;
+    width: 10%;
+}
+.dateChooser{
+    float: right;
+    width: 15%;
+}
+.taskCreatorBox{
+}

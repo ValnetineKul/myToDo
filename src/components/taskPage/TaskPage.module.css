@@ -1,0 +1,13 @@
+.task.expired {
+    border: 2px red;
+    background: red;
+}
+
+.task.completed {
+    border: 2px blue;
+    background: blue;
+}
+
+TaskPage:hover {
+    background: #000;
+}
